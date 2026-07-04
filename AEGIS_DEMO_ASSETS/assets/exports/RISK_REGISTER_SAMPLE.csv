@@ -1,0 +1,4 @@
+risk_id,ai_system,severity,probability,impact,owner,mitigation,status
+OMEGA2-RISK-AGT-000009,Financial Risk Predictor,CRITICAL,Medium,Enterprise,manager.fpa@aegisglobal.example,Human approval and runtime monitoring,Accepted with mitigation
+OMEGA2-RISK-AGT-000017,Threat Detection Engine,CRITICAL,High,Enterprise,manager.threat@aegisglobal.example,Security review and capability restriction,Pending mitigation review
+OMEGA2-RISK-AGT-000041,Contract Analysis AI,CRITICAL,Medium,Enterprise,manager.contracts@aegisglobal.example,Legal approval and evidence refresh,Accepted with mitigation

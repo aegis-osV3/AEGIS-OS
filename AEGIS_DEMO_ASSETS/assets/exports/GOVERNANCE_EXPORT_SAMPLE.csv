@@ -1,0 +1,5 @@
+policy_id,policy_name,owner,control_count,linked_ai_systems,evidence_status,approval_status
+RAI-001,Human Oversight Standard,grace.kim@aegisglobal.example,3,critical_and_high_risk_ai,complete,approved
+AIG-002,AI Registration and Ownership Policy,grace.kim@aegisglobal.example,3,64,complete,approved
+AIR-003,High-Risk AI Risk Acceptance Policy,grace.kim@aegisglobal.example,3,critical_and_high_risk_ai,complete,approved
+EVD-015,Evidence Retention and Audit Policy,grace.kim@aegisglobal.example,3,64,complete,approved

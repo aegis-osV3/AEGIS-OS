@@ -1,0 +1,5 @@
+agent_id,name,business_unit,department,business_owner,technical_owner,risk,lifecycle,compliance,next_review
+AGT-000001,Customer Support Assistant,Customer Success,Support Operations,manager.support@aegisglobal.example,ml.platform@aegisglobal.example,MEDIUM,Monitoring,Compliant,2026-08-01
+AGT-000009,Financial Risk Predictor,Finance,Financial Planning and Analysis,manager.fpa@aegisglobal.example,ml.platform@aegisglobal.example,CRITICAL,Monitoring,Exception approved,2026-07-10
+AGT-000017,Threat Detection Engine,Cybersecurity,Threat Detection,manager.threat@aegisglobal.example,security.engineering@aegisglobal.example,CRITICAL,Monitoring,Exception approved,2026-07-12
+AGT-000035,Regulatory Analysis AI,Compliance,Regulatory Compliance,manager.regulatory@aegisglobal.example,ai.governance@aegisglobal.example,CRITICAL,Validation,Exception approved,2026-07-18
